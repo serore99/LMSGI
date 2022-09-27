@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <futbol8>
+        <benjamines>
+            <equipo>
+                <nombre-E>Bejamines A</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Miguel Fernandez</nombre>
+                        <nacimiento>23-05-2014</nacimiento>
+                        <dorsal>7</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Fran Salcedo</nombre>
+                        <nacimiento>25-07-2015</nacimiento>
+                        <dorsal>11</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+            <equipo>
+                <nombre-E>Bejamines B</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Sara Serra</nombre>
+                        <nacimiento>13-10-2015</nacimiento>
+                        <dorsal>5</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Marta Lopez</nombre>
+                        <nacimiento>15-03-2014</nacimiento>
+                        <dorsal>9</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+        </benjamines>
+        <alevines>
+            <equipo>
+                <nombre-E>Alevines A</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Xavi Hernandez</nombre>
+                        <nacimiento>23-12-2012</nacimiento>
+                        <dorsal>8</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Jonathan Smith</nombre>
+                        <nacimiento>15-03-2011</nacimiento>
+                        <dorsal>12</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+            <equipo>
+                <nombre-E>Alevines B</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Laia Fernandez</nombre>
+                        <nacimiento>23-09-2011</nacimiento>
+                        <dorsal>8</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Ana Boueles</nombre>
+                        <nacimiento>14-06-2012</nacimiento>
+                        <dorsal>10</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+        </alevines>
+    </futbol8>
+    <futbol11>
+        <infantiles>
+            <equipo>
+                <nombre-E>Infantiles A</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>John Poh</nombre>
+                        <nacimiento>31-07-2010</nacimiento>
+                        <dorsal>6</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Marc Ansensi</nombre>
+                        <nacimiento>21-02-2009</nacimiento>
+                        <dorsal>9</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+            <equipo>
+                <nombre-E>Infantiles B</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Susana Horia</nombre>
+                        <nacimiento>15-01-2010</nacimiento>
+                        <dorsal>12</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Rosa Melano</nombre>
+                        <nacimiento>11-03-2009</nacimiento>
+                        <dorsal>1</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+        </infantiles>
+        <cadetes>
+            <equipo>
+                <nombre-E>Cadetes A</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Borja Serria</nombre>
+                        <nacimiento>25-12-2008</nacimiento>
+                        <dorsal>3</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Ned Stark</nombre>
+                        <nacimiento>13-04-2007</nacimiento>
+                        <dorsal>6</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+            <equipo>
+                <nombre-E>Cadetes B</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Maria del Rio</nombre>
+                        <nacimiento>20-04-2008</nacimiento>
+                        <dorsal>8</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Dolores Lopez</nombre>
+                        <nacimiento>16-03-2007</nacimiento>
+                        <dorsal>2</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+        </cadetes>
+        <juveniles>
+            <equipo>
+                <nombre-E>Juveniles A</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Mohamed Ali</nombre>
+                        <nacimiento>20-11-2006</nacimiento>
+                        <dorsal>6</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Gerard Ramos</nombre>
+                        <nacimiento>14-03-2005</nacimiento>
+                        <dorsal>8</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+            <equipo>
+                <nombre-E>Juveniles B</nombre-E>
+                <jugadores>
+                    <jugador>
+                        <nombre>Artemisa Lorca</nombre>
+                        <nacimiento>05-06-2005</nacimiento>
+                        <dorsal>9</dorsal>
+                    </jugador>
+                    <jugador>
+                        <nombre>Zuri Strauss</nombre>
+                        <nacimiento>07-08-2006</nacimiento>
+                        <dorsal>3</dorsal>
+                    </jugador>
+                </jugadores>
+            </equipo>
+        </juveniles>
+    </futbol11>
+</equipos>

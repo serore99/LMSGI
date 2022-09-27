@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+  <desayunos>
+      <plato>
+      <nombre>Tostadas de mantequilla y mermelada</nombre>  
+      <precio>2.30€</precio>
+      <calorias>500</calorias>
+      <ingredientes>
+        <ingrediente>Pan tostado</ingrediente>
+        <ingrediente>Mantequilla</ingrediente>
+        <ingrediente>Mermelada de fresa</ingrediente>
+      </ingredientes>
+    </plato>
+    <plato>
+      <nombre>Muffins de chocolate</nombre>  
+      <precio>2.50€</precio>
+      <calorias>1200</calorias>
+      <ingredientes>
+        <ingrediente>Harina</ingrediente>
+        <ingrediente>Huevo</ingrediente>
+        <ingrediente>Leche</ingrediente>
+        <ingrediente>Pepitas de chocolate</ingrediente>
+        <ingrediente>Chocolate fundido</ingrediente>
+      </ingredientes>
+    </plato>
+  </desayunos>
+  <comidas>
+    <plato>
+      <nombre>Pasta boloñesa con tomate</nombre>  
+      <precio>3.00€</precio>
+      <calorias>2000</calorias>
+      <ingredientes>
+        <ingrediente>Pasta</ingrediente>
+        <ingrediente>Carne picada</ingrediente>
+        <ingrediente>Tomate frito</ingrediente>
+        <ingrediente>Queso rallado</ingrediente>
+      </ingredientes>
+    </plato>
+    <plato>
+      <nombre>Sopa castellana</nombre>  
+      <precio>3.00€</precio>
+      <calorias>21000</calorias>
+      <ingredientes>
+        <ingrediente>Fideos</ingrediente>
+        <ingrediente>Caldo de cocido</ingrediente>
+        <ingrediente>Tacos de jamon</ingrediente>
+        <ingrediente>Pan</ingrediente>
+      </ingredientes>
+    </plato>
+  </comidas>
+  <cenas>
+    <plato>
+      <nombre>Ensalada cesar</nombre>  
+      <precio>3.00€</precio>
+      <calorias>1000</calorias>
+      <ingredientes>
+        <ingrediente>Lechuga</ingrediente>
+        <ingrediente>Tomate</ingrediente>
+        <ingrediente>Tacos de York</ingrediente>
+        <ingrediente>Salsa cesar</ingrediente>
+        <ingrediente>Tacos de pan</ingrediente>
+      </ingredientes>
+      </plato>
+      <plato>
+      <nombre>Hamburguesa completa con patatas fritas</nombre>  
+      <precio>4.00€</precio>
+      <calorias>3200</calorias>
+      <ingredientes>
+        <ingrediente>Hamburguesa de ternera</ingrediente>
+        <ingrediente>Lechuga</ingrediente>
+        <ingrediente>Tomate</ingrediente>
+        <ingrediente>Cebolla</ingrediente>
+        <ingrediente>Panecillos</ingrediente>
+        <ingrediente>Ketchup</ingrediente>
+        <ingrediente>Mayonesa</ingrediente>
+        <ingrediente>Patatas</ingrediente>
+      </ingredientes>
+    </plato>
+  </cenas>
+</carta>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<facturas>
+    <factura>
+        <empresa>
+            <CIF>458790345</CIF>
+            <nombre>Ladrillos S.A</nombre>
+            <direccion>Avenida Poligono 34</direccion>
+            <tfno>957657839</tfno>
+        </empresa>
+        <datos>
+            <numero>4567</numero>
+            <fecha>25-07-2021</fecha>
+        </datos>
+        <cliente>
+            <cif>5690789345</cif>
+            <nombre-c>Pepito Garcia</nombre-c>
+            <direccion-c>Avenida del Puerto 82-2</direccion-c>
+            <tfno-c>678349045</tfno-c>
+        </cliente>
+        <productos>
+            <producto>
+                <codigo>4567</codigo>
+                <nombre-f>Saco de cemento</nombre-f>
+                <precio>10.00€</precio>
+                <IVA>21%</IVA>
+                <unidades>4</unidades>
+                <importe>40.00€</importe>
+            </producto>
+            <producto>
+                <codigo>5673</codigo>
+                <nombre-f>Pale de ladrillos</nombre-f>
+                <precio>15.00€</precio>
+                <IVA>21%</IVA>
+                <unidades>4</unidades>
+                <importe>60.00€</importe>
+            </producto>
+        </productos>
+    </factura>
+    <factura>
+        <empresa>
+            <CIF>458790345</CIF>
+            <nombre>Ladrillos S.A</nombre>
+            <direccion>Avenida Poligono 34</direccion>
+            <tfno>957657839</tfno>
+        </empresa>
+        <datos>
+            <numero>5674</numero>
+            <fecha>28-10-2021</fecha>
+        </datos>
+        <cliente>
+            <cif>4673974530</cif>
+            <nombre-c>Teresa Serra</nombre-c>
+            <direccion-c>Avenida España 23-1</direccion-c>
+            <tfno-c>656893456</tfno-c>
+        </cliente>
+        <productos>
+            <producto>
+                <codigo>4567</codigo>
+                <nombre-f>Saco de cemento</nombre-f>
+                <precio>10.00€</precio>
+                <IVA>21%</IVA>
+                <unidades>2</unidades>
+                <importe>20.00€</importe>
+            </producto>
+            <producto>
+                <codigo>5322</codigo>
+                <nombre-f>Pale de Tejas</nombre-f>
+                <precio>8.00€</precio>
+                <IVA>21%</IVA>
+                <unidades>5</unidades>
+                <importe>40.00€</importe>
+            </producto>
+        </productos>
+    </factura>
+</facturas>

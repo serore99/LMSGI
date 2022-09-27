@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<libreria>
+  <libro>
+  <titulo>Otra vuelta de tuerca</titulo>  
+  <editorial>Anaya</editorial>
+  <fecha>23-4-1997</fecha>
+  <ISBN>458-7903487623</ISBN>
+  <autores>
+    <autor>
+      <nombre>Henry James</nombre>
+      <pais>Reino Unido</pais>
+    </autor>
+  </autores>
+  </libro>
+  <libro>
+  <titulo>El bestario de Axlin</titulo>  
+  <editorial>Montena</editorial>
+  <fecha>05-04-2018</fecha>
+  <ISBN>978-8490439319</ISBN>
+  <autores>
+    <autor>
+      <nombre>Laura Gallego</nombre>
+      <pais>España</pais>
+    </autor>
+  </autores>
+  </libro>
+  <libro>
+  <titulo>El Hobbit</titulo>  
+  <editorial>Santillana</editorial>
+  <fecha>12-03-2012</fecha>
+  <ISBN>234-4789203456</ISBN>
+  <autores>
+    <autor>
+      <nombre>J.R.R.Tolkien</nombre>
+      <pais>Sudafrica</pais>
+    </autor>
+  </autores>
+  </libro>
+    <libro>
+  <titulo>XML a traves del tiempo</titulo>  
+  <editorial>ra-ma</editorial>
+  <fecha>15-06-2015</fecha>
+  <ISBN>267-4508976703</ISBN>
+  <autores>
+    <autor>
+      <nombre>Abraham Gutierrez Rodriguez</nombre>
+      <pais>España</pais>
+    </autor>
+    <autor>
+      <nombre>Raul Martinez Gonzalez</nombre>
+      <pais>España</pais>
+    </autor>
+  </autores>
+  </libro>
+</libreria>

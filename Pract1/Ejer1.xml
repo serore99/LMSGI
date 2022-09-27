@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<reparaciones>
+    <vehiculo>
+    <matricula> 1234ABC </matricula>
+    <marca> Peugote </marca>
+    <modelo> Sedan </modelo>
+    <fecha> 14-09-2022 </fecha>
+    <nombre> Paco </nombre>
+  </vehiculo>
+  <vehiculo>
+    <matricula> 4567QWE </matricula>
+    <marca> Audi </marca>
+    <modelo> R8 </modelo>
+    <fecha> 23-12-2019 </fecha>
+    <nombre> Manolo </nombre>
+  </vehiculo>
+  <vehiculo>
+    <matricula> 926PRB </matricula>
+    <marca> Fiat </marca>
+    <modelo> 500 </modelo>
+    <fecha> 18-5-2020 </fecha>
+    <nombre> Teresa </nombre>
+  </vehiculo>
+</reparaciones>
