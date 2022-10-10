@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="pedido">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="empleadoresponsable" type="xs:string" />
+                <xs:element name="enviar_a">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nomcliente" type="xs:string" />
+                            <xs:element name="direccion" type="xs:string" />
+                            <xs:element name="ciudad" type="xs:string" />
+                            <xs:element name="pais" type="xs:string" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="producto">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="titulo" type="xs:string" />
+                            <xs:element name="nota" type="xs:string" />
+                            <xs:element name="cantidad" type="xs:positiveInteger" />
+                            <xs:element name="precio" type="xs:decimal" />
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
